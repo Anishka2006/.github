@@ -10,6 +10,7 @@ We host and contribute to a variety of projects that support the neuroinformatic
 <ul>
   <li><a href="https://training.incf.org/" target="_blank">INCF TrainingSpace</a> - Neuroscience educational materials</li>
   <li><a href="https://knowledge-space.org/" target="_blank">INCF KnowledgeSpace</a> - Community encyclopedia for neuroscience</li>
+   <li><a href="https://neurostars.org/" target="_blank">INCF Neurostars</a> - A question and answer forum for neuroscience researchers, infrastructure providers and software developers</li>
   <li><a href="https://incf.org/" target="_blank">INCF.org  </a>- INCF portal for FAIR neuroscience</li>
 </ul>
 
