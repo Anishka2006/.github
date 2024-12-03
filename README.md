@@ -27,18 +27,19 @@ For more information, visit <a href="https://incf.org" target="_blank">our websi
 ## Standards and Best Practices We Endorse
 We proudly endorse the following Standards and Best Practices for their contributions to the field of neuroinformatics:
 
-- **HED**
-- **SWC**
-- **NetPyNE**
-- **SPARC**
-- **Neo**
-- **The neuromorphological file format**
-- **NIX**
-- **The Five Recommendations for FAIR Software**
-- **NeuroML**
-- **NWB**
-- **PyNN**
-- **BIDS**
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-HED-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fhed)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-SWC-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fswc)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-NetPyNE-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fnetpyne)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-SPARC-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsparc-data-structure)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-NEO-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsbp%2Fneo)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-The%20neuromorphological%20file%20format-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fmbf-file-format-v-40)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-FAIR%20Software-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Ffair-software)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-NIX-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsbp%2Fnix)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-NWB-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsbp%2Fnwb)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-NeuroML-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsbp%2Fneuroml)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-BIDS-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsbp%2Fbrain-imaging-data-structure-bids)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-PyNN-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsbp%2Fpynn)
+- ![Static Badge](https://img.shields.io/badge/Endorsed%20by%20INCF-DAQCORD-118cdc?logo=Endorsed%20by%20INCF&labelColor=%23f1f1f1&link=https%3A%2F%2Fwww.incf.org%2Fsbp%2Fdaqcord)
 
 ---
 
